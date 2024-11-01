@@ -29,7 +29,7 @@ A full-stack e-commerce product catalog built with the MERN stack (MongoDB, Expr
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/e-commerce-catalog.git
+   git clone https://github.com/raycoffee/e-commerce-catalog.git
    ```
 
 2. Install server dependencies
